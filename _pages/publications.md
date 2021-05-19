@@ -9,7 +9,7 @@ author_profile: true
 
 Xueguang Ma, Kai Sun, Ronak Pradeep and Jimmy Lin
 
-_arXiv preprint.
+_arXiv preprint_.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
