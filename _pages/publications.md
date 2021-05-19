@@ -7,14 +7,13 @@ author_profile: true
 
 ## [A Replication Study of Dense Passage Retriever](https://arxiv.org/abs/2104.05740)
 
-Xueguang Ma, Kai Sun, Ronak Pradeep and Jimmy Lin
+*Xueguang Ma*, Kai Sun, Ronak Pradeep and Jimmy Lin
 
 _arXiv preprint_.
 
-## [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable IR Research with Sparse and Dense Representations
-](https://arxiv.org/abs/2102.10073)
+## [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable IR Research with Sparse and Dense Representations](https://arxiv.org/abs/2102.10073)
 
-Jimmy Lin, Xueguang Ma, Sheng-Chieh Lin, Jheng-Hong Yang, Ronak Pradeep and Rodrigo Nogueira
+Jimmy Lin, *Xueguang Ma*, Sheng-Chieh Lin, Jheng-Hong Yang, Ronak Pradeep and Rodrigo Nogueira
 
 _arXiv preprint_.
 
