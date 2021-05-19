@@ -7,6 +7,10 @@ author_profile: true
 
 ### [A Replication Study of Dense Passage Retriever](https://arxiv.org/abs/2104.05740)
 
+Xueguang Ma, Kai Sun, Ronak Pradeep and Jimmy Lin
+
+_arXiv preprint._
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
