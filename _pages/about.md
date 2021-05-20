@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 Hi! I am Xueguang Ma (马雪光).
-I am currently a Master student in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), Canada.
+I am currently a Master student in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at [the University of Waterloo](https://uwaterloo.ca/), Canada.
 My advisor is [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 My research interests include Information Retrieval (IR), Natural Language Processing (NLP) and Human Computer Interaction (HCI).
 
-I completed my undergraduate degree at the University of Waterloo in 2021.
+I completed my undergraduate degree at [the University of Waterloo](https://uwaterloo.ca/), Canada in 2021.
+I completed my high school degree at [the Experimental High School Attached To Beijing Normal University](http://www.sdsz.com.cn/), Beijing, China in 2021.
 
 # News
 
