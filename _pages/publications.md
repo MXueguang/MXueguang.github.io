@@ -37,7 +37,7 @@ _TREC 2020_.
 
 ---
 
-## [E- Health for Older Adults: Navigating Misinformation.](https://trec.nist.gov/pubs/trec29/papers/h2oloo.DL.HM.PM.pdf)
+## [E- Health for Older Adults: Navigating Misinformation.](/files/ehealth_misinfo.pdf)
 
 Amira Ghenai, *Xueguang Ma*, Robin Cohen, Karyn Moffatt, Andy Yang and Yipeng Ji
 
