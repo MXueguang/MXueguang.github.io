@@ -16,3 +16,5 @@ My research interests include Information Retrieval (IR), Natural Language Proce
 I completed my undergraduate degree at the University of Waterloo in 2021.
 
 # News
+
+- 2021.05.10 I started my thesis based master program at the University of Waterloo, supervised by Prof. Jimmy Lin.
