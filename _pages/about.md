@@ -15,7 +15,7 @@ My research interests include Information Retrieval (IR), Natural Language Proce
 
 I completed my Bachelor of Mathematics degree at [the University of Waterloo](https://uwaterloo.ca/), Canada in 2021.
 
-I completed my high school degree at [the Experimental High School Attached To Beijing Normal University](http://www.sdsz.com.cn/), Beijing, China in 2021.
+I completed my high school degree at [the Experimental High School Attached To Beijing Normal University](http://www.sdsz.com.cn/), Beijing, China in 2015.
 
 # News
 
