@@ -21,11 +21,19 @@ _SIGIR 2021_.
 
 ---
 
-## [Scientific Claim Verification with VERT5ERINI](https://arxiv.org/abs/2010.11930)
+## Vera: Prediction Techniques for Reducing Harmful Misinformation in Consumer Health Search
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
 _SIGIR 2021_.
+
+---
+
+## [Scientific Claim Verification with VERT5ERINI](https://arxiv.org/abs/2010.11930)
+
+Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
+
+_LOUHI 2021 (EACL)_.
 
 ---
 
