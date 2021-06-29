@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807)
+
+Jimmy Lin and **Xueguang Ma**
+
+_arXiv 2021_.
+
+---
+
 ## [A Replication Study of Dense Passage Retriever](https://arxiv.org/abs/2104.05740)
 
 **Xueguang Ma**, Kai Sun, Ronak Pradeep and Jimmy Lin
@@ -21,7 +29,7 @@ _SIGIR 2021_.
 
 ---
 
-## Vera: Prediction Techniques for Reducing Harmful Misinformation in Consumer Health Search
+## [Vera: Prediction Techniques for Reducing Harmful Misinformation in Consumer Health Search](https://cs.uwaterloo.ca/~jimmylin/publications/Pradeep_etal_SIGIR2021.pdf)
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
