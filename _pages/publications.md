@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+## [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787)
+
+Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
+
+_arXiv 2021_.
+
+
+## On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications
+
+Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
+
+_DESIRES 2021_.
+
 ## [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807)
 
 Jimmy Lin and **Xueguang Ma**
