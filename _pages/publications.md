@@ -5,14 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval
+
+**Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
+
+_EMNLP 2021_.
+
 ## [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787)
 
 Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
 
-_arXiv 2021_.
+_MRL 2021 (EMNLP)_.
 
 
-## On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications
+## [On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications](https://cs.uwaterloo.ca/~jimmylin/publications/Lin_etal_DESIRES2021.pdf)
 
 Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
 
