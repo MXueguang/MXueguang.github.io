@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval
+## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
 
 **Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
 
