@@ -5,28 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
+## [Sparsifying Sparse Representations for Passage Retrieval by Top-k Masking](https://arxiv.org/abs/2112.09628)
 
-**Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
-
-_EMNLP 2021_.
-
-## [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787)
-
-Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
-
-_MRL 2021 (EMNLP)_.
-
-
-## [On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications](https://cs.uwaterloo.ca/~jimmylin/publications/Lin_etal_DESIRES2021.pdf)
-
-Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
-
-_DESIRES 2021_.
-
-## [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807)
-
-Jimmy Lin and **Xueguang Ma**
+Jheng-Hong Yang, **Xueguang Ma**, and Jimmy Lin
 
 _arXiv 2021_.
 
@@ -34,7 +15,47 @@ _arXiv 2021_.
 
 ## [A Replication Study of Dense Passage Retriever](https://arxiv.org/abs/2104.05740)
 
-**Xueguang Ma**, Kai Sun, Ronak Pradeep and Jimmy Lin
+**Xueguang Ma**, Kai Sun, Ronak Pradeep, Minghan Li and Jimmy Lin
+
+_ECIR 2022_.
+
+---
+
+## [Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback: A Reproducibility Study](https://arxiv.org/abs/2112.06400)
+
+Hang Li, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon.
+
+_ECIR 2022_.
+
+---
+
+## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
+
+**Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
+
+_EMNLP 2021_.
+
+---
+
+## [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787)
+
+Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
+
+_MRL 2021 (EMNLP)_.
+
+---
+
+## [On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications](https://cs.uwaterloo.ca/~jimmylin/publications/Lin_etal_DESIRES2021.pdf)
+
+Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
+
+_DESIRES 2021_.
+
+---
+
+## [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807)
+
+Jimmy Lin and **Xueguang Ma**
 
 _arXiv 2021_.
 
