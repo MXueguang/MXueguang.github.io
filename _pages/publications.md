@@ -11,6 +11,7 @@ author_profile: true
 
 _SIGIR 2022_.
 
+---
 
 ## [To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers](https://arxiv.org/pdf/2205.00235.pdf)
 
@@ -18,11 +19,16 @@ Hang Li, Shuai Wang, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, 
 
 _SIGIR 2022_.
 
+---
+
+
 ## [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval](https://arxiv.org/abs/2203.05765)
 
 Luyu Gao, **Xueguang Ma**, Jimmy Lin, and Jamie Callan
 
 _arXiv 2022_.
+
+---
 
 
 ## [Sparsifying Sparse Representations for Passage Retrieval by Top-k Masking](https://arxiv.org/abs/2112.09628)
