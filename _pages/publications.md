@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Document Expansions and Learned Sparse Lexical Representations for MS MARCO V1 and V2]()
+
+## [Document Expansions and Learned Sparse Lexical Representations for MS MARCO V1 and V2](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_SIGIR2022.pdf)
 
 **Xueguang Ma**, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin
 
-_SIGIR 2022_.
+_SIGIR 2022_. (Resource paper)
 
 ---
 
@@ -17,7 +18,7 @@ _SIGIR 2022_.
 
 Hang Li, Shuai Wang, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon
 
-_SIGIR 2022_.
+_SIGIR 2022_. (Short paper)
 
 ---
 
@@ -43,7 +44,7 @@ _arXiv 2021_.
 
 **Xueguang Ma**, Kai Sun, Ronak Pradeep, Minghan Li and Jimmy Lin
 
-_ECIR 2022_.
+_ECIR 2022_. (Reproducibility paper)
 
 ---
 
@@ -51,7 +52,7 @@ _ECIR 2022_.
 
 Hang Li, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon.
 
-_ECIR 2022_.
+_ECIR 2022_. (Reproducibility paper)
 
 ---
 
@@ -59,7 +60,7 @@ _ECIR 2022_.
 
 **Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
 
-_EMNLP 2021_.
+_EMNLP 2021_. (Short paper)
 
 ---
 
@@ -67,7 +68,7 @@ _EMNLP 2021_.
 
 Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
 
-_MRL 2021 (EMNLP)_.
+_MRL 2021 (EMNLP)_. (Workshop paper)
 
 ---
 
@@ -75,7 +76,7 @@ _MRL 2021 (EMNLP)_.
 
 Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
 
-_DESIRES 2021_.
+_DESIRES 2021_. (Perspective paper)
 
 ---
 
@@ -91,7 +92,7 @@ _arXiv 2021_.
 
 Jimmy Lin, **Xueguang Ma**, Sheng-Chieh Lin, Jheng-Hong Yang, Ronak Pradeep and Rodrigo Nogueira
 
-_SIGIR 2021_.
+_SIGIR 2021_. (Resource paper)
 
 ---
 
@@ -99,7 +100,7 @@ _SIGIR 2021_.
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
-_SIGIR 2021_.
+_SIGIR 2021_. (Short paper)
 
 ---
 
@@ -107,7 +108,7 @@ _SIGIR 2021_.
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
-_LOUHI 2021 (EACL)_.
+_LOUHI 2021 (EACL)_. (Workshop paper)
 
 ---
 
@@ -119,13 +120,13 @@ _TREC 2020_.
 
 ---
 
-## [E- Health for Older Adults: Navigating Misinformation.](/files/ehealth_misinfo.pdf)
+<!-- ## [E- Health for Older Adults: Navigating Misinformation.](/files/ehealth_misinfo.pdf)
 
 Amira Ghenai, **Xueguang Ma**, Robin Cohen, Karyn Moffatt, Andy Yang and Yipeng Ji
 
 _ICT4AWE 2021_.
 
----
+--- -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
