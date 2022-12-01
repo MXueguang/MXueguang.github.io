@@ -5,12 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+## [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588.pdf)
+
+Wenhu Chen*, **Xueguang Ma***, Xinyi Wang, and William W. Cohen
+
+_arXiv 2022_.
+
+---
 
 ## [Document Expansions and Learned Sparse Lexical Representations for MS MARCO V1 and V2](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_SIGIR2022.pdf)
 
 **Xueguang Ma**, Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin
 
-_SIGIR 2022_. (Resource paper)
+_SIGIR 2022_.
 
 ---
 
@@ -18,7 +25,7 @@ _SIGIR 2022_. (Resource paper)
 
 Hang Li, Shuai Wang, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon
 
-_SIGIR 2022_. (Short paper)
+_SIGIR 2022_.
 
 ---
 
@@ -44,7 +51,7 @@ _arXiv 2021_.
 
 **Xueguang Ma**, Kai Sun, Ronak Pradeep, Minghan Li and Jimmy Lin
 
-_ECIR 2022_. (Reproducibility paper)
+_ECIR 2022_.
 
 ---
 
@@ -52,15 +59,15 @@ _ECIR 2022_. (Reproducibility paper)
 
 Hang Li, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon.
 
-_ECIR 2022_. (Reproducibility paper)
+_ECIR 2022_.
 
 ---
 
 ## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
 
-**Xueguang Ma**, Minghan Li, Kai Sun, Ji Xin, Jimmy Lin
+**Xueguang Ma***, Minghan Li*, Kai Sun, Ji Xin, Jimmy Lin
 
-_EMNLP 2021_. (Short paper)
+_EMNLP 2021_.
 
 ---
 
@@ -68,7 +75,7 @@ _EMNLP 2021_. (Short paper)
 
 Xinyu Zhang, **Xueguang Ma**, Peng Shi, Jimmy Lin
 
-_MRL 2021 (EMNLP)_. (Workshop paper)
+_MRL 2021 (EMNLP)_.
 
 ---
 
@@ -76,7 +83,7 @@ _MRL 2021 (EMNLP)_. (Workshop paper)
 
 Jimmy Lin, **Xueguang Ma**, Joel Mackenzie, Antonio Mallia, and Michał Siedlaczek
 
-_DESIRES 2021_. (Perspective paper)
+_DESIRES 2021_.
 
 ---
 
@@ -92,7 +99,7 @@ _arXiv 2021_.
 
 Jimmy Lin, **Xueguang Ma**, Sheng-Chieh Lin, Jheng-Hong Yang, Ronak Pradeep and Rodrigo Nogueira
 
-_SIGIR 2021_. (Resource paper)
+_SIGIR 2021_.
 
 ---
 
@@ -100,7 +107,7 @@ _SIGIR 2021_. (Resource paper)
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
-_SIGIR 2021_. (Short paper)
+_SIGIR 2021_.
 
 ---
 
@@ -108,7 +115,7 @@ _SIGIR 2021_. (Short paper)
 
 Ronak Pradeep, **Xueguang Ma**, Rodrigo Nogueira and Jimmy Lin
 
-_LOUHI 2021 (EACL)_. (Workshop paper)
+_LOUHI 2021 (EACL)_.
 
 ---
 
