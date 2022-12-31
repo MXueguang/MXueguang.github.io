@@ -5,9 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588.pdf)
+## [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2212.10496)
 
-Wenhu Chen*, **Xueguang Ma***, Xinyi Wang, and William W. Cohen
+Luyu Gao\*, **Xueguang Ma**\*, Jimmy Lin, and Jamie Callan
+
+_arXiv 2022_.
+
+
+## [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)
+
+Wenhu Chen\*, **Xueguang Ma**\*, Xinyi Wang, and William W. Cohen
 
 _arXiv 2022_.
 
@@ -65,7 +72,7 @@ _ECIR 2022_.
 
 ## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
 
-**Xueguang Ma***, Minghan Li*, Kai Sun, Ji Xin, Jimmy Lin
+**Xueguang Ma**\*, Minghan Li\*, Kai Sun, Ji Xin, Jimmy Lin
 
 _EMNLP 2021_.
 
