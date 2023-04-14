@@ -39,9 +39,9 @@ _SIGIR 2022_.
 
 ## [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval](https://arxiv.org/abs/2203.05765)
 
-Luyu Gao, **Xueguang Ma**, Jimmy Lin, and Jamie Callan
+Luyu Gao\*, **Xueguang Ma**\*, Jimmy Lin, and Jamie Callan
 
-_arXiv 2022_.
+_SIGIR 2023_.
 
 ---
 
