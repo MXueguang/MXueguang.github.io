@@ -48,7 +48,7 @@ _EMNLP 2023_.
 
 ## [Zero-Shot Listwise Document Reranking with a Large Language Model](https://arxiv.org/abs/2305.02156)
 
-Xueguang Ma, Xinyu Zhang, Ronak Pradeep and Jimmy Lin
+**Xueguang Ma**, Xinyu Zhang, Ronak Pradeep and Jimmy Lin
 
 _ArXiv 2023_.
 
