@@ -1,23 +1,64 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+---
+
+## [Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
+
+**Xueguang Ma**, Sheng-Chieh Lin, Minghan Li, Wenhu Chen and Jimmy Lin
+
+_ArXiv 2024_.
+
+---
+
+
+## [LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://arxiv.org/abs/2406.15319)
+
+Ziyan Jiang, **Xueguang Ma** and Wenhu Chen
+
+_ArXiv 2024_.
+
+---
+
+## [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574)
+
+Yubo Wang, **Xueguang Ma**, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue and Wenhu Chen
+
+_ArXiv 2024_.
+
+---
+
+## [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/abs/2404.18424)
+
+Shengyao Zhuang, **Xueguang Ma**, Bevan Koopman, Jimmy Lin and Guido Zuccon
+
+_ArXiv 2024_.
+
 ---
 
 ## [Fine-Tuning LLaMA for Multi-Stage Text Retrieval](https://arxiv.org/abs/2310.08319)
 
 **Xueguang Ma**, Liang Wang, Nan Yang, Furu Wei and Jimmy Lin
 
-_ArXiv 2023_.
+_SIGIR 2024_.
 
 ---
+
+<!-- ## [Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses](https://ehsk.github.io/assets/pdf/SIGIR_2024__BEIR_Resource.pdf)
+
+Ehsan Kamalloo, Nandan Thakur, Carlos Lassance, **Xueguang Ma**, Jheng-Hong Yang and Jimmy Lin
+
+_SIGIR 2024_.
+
+--- -->
 
 ## [Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models](https://arxiv.org/abs/2310.07712)
 
 Raphael Tang, Xinyu Zhang, **Xueguang Ma**, Jimmy Lin and Ferhan Ture
 
-_ArXiv 2023_.
+_NAACL 2024_.
 
 ---
 
@@ -37,13 +78,13 @@ _CIKM 2023_.
 
 ---
 
-## [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)
+<!-- ## [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)
 
 Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, **Xueguang Ma**, Jianyu Xu, Tony Xia, Xinyi Wang and Pan Lu
 
 _EMNLP 2023_.
 
----
+--- -->
 
 
 ## [Zero-Shot Listwise Document Reranking with a Large Language Model](https://arxiv.org/abs/2305.02156)
@@ -78,13 +119,13 @@ _TMLR 2023_.
 
 ---
 
-## [SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes](https://arxiv.org/abs/2302.06587)
+<!-- ## [SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes](https://arxiv.org/abs/2302.06587)
 
 Minghan Li, Sheng-Chieh Lin, **Xueguang Ma** and Jimmy Lin
 
 _SIGIR 2023_.
 
----
+--- -->
 
 ## [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval](https://arxiv.org/abs/2203.05765)
 
@@ -102,13 +143,13 @@ _SIGIR 2022_.
 
 ---
 
-## [To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers](https://arxiv.org/pdf/2205.00235.pdf)
+<!-- ## [To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers](https://arxiv.org/pdf/2205.00235.pdf)
 
 Hang Li, Shuai Wang, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon
 
 _SIGIR 2022_.
 
----
+--- -->
 
 
 ## [Sparsifying Sparse Representations for Passage Retrieval by Top-k Masking](https://arxiv.org/abs/2112.09628)
@@ -127,13 +168,13 @@ _ECIR 2022_.
 
 ---
 
-## [Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback: A Reproducibility Study](https://arxiv.org/abs/2112.06400)
+<!-- ## [Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback: A Reproducibility Study](https://arxiv.org/abs/2112.06400)
 
 Hang Li, Shengyao Zhuang, Ahmed Mourad, **Xueguang Ma**, Jimmy Lin, and Guido Zuccon.
 
 _ECIR 2022_.
 
----
+--- -->
 
 ## [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval](https://cs.uwaterloo.ca/~jimmylin/publications/Ma_etal_EMNLP2021.pdf)
 

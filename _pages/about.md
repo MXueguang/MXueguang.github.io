@@ -17,4 +17,4 @@ I completed my Bachelor of Mathematics degree at the [University of Waterloo](ht
 
 And I love skiing/snowboarding.
 
-> I am currectly looking for internship opportunities for Spring/Summer 2024.
+<!-- > I am currectly looking for internship opportunities for Spring/Summer 2024. -->
