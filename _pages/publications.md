@@ -54,13 +54,13 @@ _SIGIR 2024_.
 
 --- -->
 
-## [Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models](https://arxiv.org/abs/2310.07712)
+<!-- ## [Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models](https://arxiv.org/abs/2310.07712)
 
 Raphael Tang, Xinyu Zhang, **Xueguang Ma**, Jimmy Lin and Ferhan Ture
 
 _NAACL 2024_.
 
----
+--- -->
 
 ## [Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering](https://arxiv.org/abs/2309.02233)
 
