@@ -86,7 +86,7 @@ author:
   location         : "Waterloo, ON, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4kvcmkQAAAAJ"
   email            : "x93ma@uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xueguang-ma-马雪光-64639514a"
+  linkedin         : # "xueguang-ma-马雪光-64639514a"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
