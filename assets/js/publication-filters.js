@@ -71,7 +71,7 @@ function filterCombined() {
                      (currentVenue === 'neurips' && venue.includes('neurips')) ||
                      (currentVenue === 'journal' && (venue.includes('tois') || venue.includes('tmlr'))) ||
                      (currentVenue === 'arxiv' && venue.includes('arxiv')) ||
-                     (currentVenue === 'others' && !venue.includes('acl') && !venue.includes('naacl') && !venue.includes('emnlp') && !venue.includes('sigir') && !venue.includes('cikm') && !venue.includes('neurips') && !venue.includes('tois') && !venue.includes('tmlr') && !venue.includes('arxiv') || venue.includes('sigir-ap')));
+                     (currentVenue === 'others' && (!venue.includes('acl') && !venue.includes('naacl') && !venue.includes('emnlp') && !venue.includes('sigir') && !venue.includes('cikm') && !venue.includes('neurips') && !venue.includes('tois') && !venue.includes('tmlr') && !venue.includes('arxiv') || venue.includes('sigir-ap'))));
     if (tagMatch && yearMatch && firstMatch && venueMatch) {
       item.style.display = '';
     } else {
