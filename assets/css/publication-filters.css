@@ -1,0 +1,75 @@
+#selected-publications-list.pub-oneline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2em 0;
+}
+.pub-oneline {
+  margin-bottom: 1.2em;
+  padding-bottom: 0.7em;
+  border-bottom: 1px solid #eee;
+}
+.pub-title-row {
+  font-size: 1em;
+  font-weight: 700;
+  margin-bottom: 0.1em;
+}
+.pub-title {
+  font-size: 1em;
+  font-weight: 700;
+}
+.pub-authors {
+  font-size: 1em;
+  color: #444;
+  margin-bottom: 0.1em;
+}
+.pub-venue {
+  font-size: 0.97em;
+  color: #888;
+  margin-bottom: 0.1em;
+}
+.pub-venue a {
+  color: #444;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.pub-venue a:hover {
+  color: #888;
+  text-decoration: underline;
+}
+.pub-tags {
+  font-size: 0.95em;
+  color: #aaa;
+  margin-bottom: 0.1em;
+}
+#pub-filter-bar {
+  margin-bottom: 1.5em;
+}
+#pub-filter-select {
+  font-size: 1em;
+}
+.tag-link {
+  color: #444;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 0.97em;
+  margin-right: 0.3em;
+  transition: color 0.2s;
+}
+.tag-link.active, .tag-link:hover {
+  color: #888;
+  text-decoration: underline;
+}
+.year-link, .first-link, .venue-link {
+  color: #444;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 0.97em;
+  margin-right: 0.3em;
+  transition: color 0.2s;
+}
+.year-link.active, .year-link:hover,
+.first-link.active, .first-link:hover,
+.venue-link.active, .venue-link:hover {
+  color: #888;
+  text-decoration: underline;
+} 
