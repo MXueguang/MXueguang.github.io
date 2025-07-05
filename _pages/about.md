@@ -185,7 +185,6 @@ To support this vision, my research explores:
     <div class="pub-title-row"><strong class="pub-title">SLIM: Sparsified late interaction for multi-vector retrieval with inverted indexes</strong></div>
     <div class="pub-authors">Minghan Li, Sheng-Chieh Lin, Xueguang Ma, Jimmy Lin.</div>
     <div class="pub-venue"><em>SIGIR 2023.</em> <a href="https://dl.acm.org/doi/10.1145/3539618.3591977">Paper</a> | <a href="https://github.com/castorini/pyserini/blob/master/docs/experiments-slim.md">Code</a> </div>
-    <div class="pub-tags">[Retrieval]</div>
   </li>
   <li class="pub-oneline" data-tags="benchmark,reasoning,large-language-model,emnlp,2023">
     <div class="pub-title-row"><strong class="pub-title">TheoremQA: A theorem-driven question answering dataset</strong></div>
@@ -211,7 +210,6 @@ To support this vision, my research explores:
     <div class="pub-title-row"><strong class="pub-title">Few-shot In-context Learning for Knowledge Base Question Answering</strong></div>
     <div class="pub-authors">Tianle Li, Xueguang Ma, Alex Zhuang, Yu Gu, Yu Su, Wenhu Chen.</div>
     <div class="pub-venue"><em>ACL 2023.</em> <a href="https://aclanthology.org/2023.acl-long.385/">Paper</a> | <a href="https://github.com/TIGER-AI-Lab/KB-BINDER">Code</a> </div>
-    <div class="pub-tags">[Large Language Model, Retrieval Augmented Generation]</div>
   </li>
   <li class="pub-oneline" data-tags="large-language-model,reasoning,first-author">
     <div class="pub-title-row"><strong class="pub-title">Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks</strong></div>
