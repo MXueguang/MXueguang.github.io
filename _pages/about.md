@@ -20,7 +20,7 @@ I like snowboarding and badminton.
 
 <!-- > I am currectly looking for internship opportunities for Spring/Summer 2024. -->
 
-### Research Interests
+## Research Interests
 
 My overarching research goal is to make it easy for people and intelligent systems to access, understand, and interact with world information.
 
@@ -30,41 +30,6 @@ To support this vision, my research explores:
 - **Multimodal Retrieval Augmented Generation:** Bridging text and visual modalities to access information beyond text. [DSE](https://aclanthology.org/2024.emnlp-main.373/), [VISA](https://arxiv.org/abs/2412.14457), [OmniEmbed](https://huggingface.co/Tevatron/OmniEmbed-v0.1)
 - **LLM Reasoning:** Assessing and optimizing reasoning capabilities of large language models across domains and tasks. [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro), [General-Reasoner](https://arxiv.org/abs/2505.14652)
 - **Open-source Toolkits:** Building open-source toolkits for research on information retrieval. [Tevatron](https://github.com/texttron/tevatron/), [Pyserini](https://github.com/castorini/pyserini), [Anserini](https://github.com/castorini/anserini)
-
-
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-author: Xueguang Ma
----
-
-Hi! I'm Xueguang Ma (马雪光).
-I am a fourth-year PhD student in the David R. Cheriton School of Computer Science at the University of Waterloo, Canada.
-I am advised by Prof. Jimmy Lin.
-My research interests include Information Retrieval (IR) and Natural Language Processing (NLP).
-
-I received my Bachelor of Mathematics from the University of Waterloo in 2021.
-
-I like snowboarding and badminton.
-
-<!-- > I am currectly looking for internship opportunities for Spring/Summer 2024. -->
-
-### Research Interests
-
-My overarching research goal is to make it easy for people and intelligent systems to access, understand, and interact with world information.
-
-To support this vision, my research explores:
-
-- **Neural Retrieval and LLM Retrieval:** Developing precise and generalizable retrieval systems. [UniCOIL](https://arxiv.org/abs/2103.00353), [RankLlama](https://dl.acm.org/doi/10.1145/3626772.3657951),  [HyDE](https://aclanthology.org/2023.acl-long.99/), [LRL](https://arxiv.org/abs/2305.02156), [PromptReps](https://aclanthology.org/2024.emnlp-main.250/), [Drama](https://arxiv.org/abs/2502.18460), [Rank-R1](https://arxiv.org/abs/2503.06034)
-- **Multimodal Retrieval Augmented Generation:** Bridging text and visual modalities to access information beyond text. [DSE](https://aclanthology.org/2024.emnlp-main.373/), [VISA](https://arxiv.org/abs/2412.14457), [OmniEmbed](https://huggingface.co/Tevatron/OmniEmbed-v0.1)
-- **LLM Reasoning:** Assessing and optimizing reasoning capabilities of large language models across domains and tasks. [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro), [General-Reasoner](https://arxiv.org/abs/2505.14652)
-- **Open-source Toolkits:** Building open-source toolkits for research on information retrieval. [Tevatron](https://github.com/texttron/tevatron/), [Pyserini](https://github.com/castorini/pyserini), [Anserini](https://github.com/castorini/anserini)
-
 
 
 ## Publications
